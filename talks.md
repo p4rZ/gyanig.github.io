@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
+<!-- Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
 
 - **GBO presentation**
   [Slides](/static/ppt/gbo_presentation.pdf){: .btn}  
@@ -82,6 +82,6 @@ Here is a list of my talks and presentations (including presenting work by other
 	Barton 225, 3101 Wyman Park Dr, Baltimore  
 	March 11, 2019  
 
-<br /> 
+<br />  -->
 
 
