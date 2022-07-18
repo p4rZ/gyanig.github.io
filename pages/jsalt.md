@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: "Integration of speech separation, diarization, and recognition for multi-speaker 
 meetings: System description, comparison, and analysis"
@@ -229,4 +229,4 @@ and Google. If you use the data or code in your research, consider citing:
 ### Other resources
 
 * Paper: [Link](https://arxiv.org/abs/2011.02014)
-* Slides: [Link](https://desh2608.github.io/static/ppt/slt21_jsalt_slides.pdf)
+* Slides: [Link](https://desh2608.github.io/static/ppt/slt21_jsalt_slides.pdf) -->

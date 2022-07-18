@@ -47,7 +47,7 @@ author:
   github: gyanig    # eg. daattali
   linkedin: gyanig-k-b36666146
   twitter: p4rZ_
-  twitch: p4r7_
+  # twitch: p4r7_
 
 # Select which links to show in the footer
 footer-links-active:
@@ -66,7 +66,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  twitch: true
+  # twitch: true
 
 # Select which share links to show in posts
 share-links-active:
@@ -81,7 +81,7 @@ url-pretty: "gyanigk.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "p4rz-github-io"
+disqus: "p4rZ-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "G-7S1G3392FP"

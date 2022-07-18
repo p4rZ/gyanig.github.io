@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Multi-class Spectral Clustering with Overlaps for Speaker Diarization 
 ---
@@ -87,4 +87,4 @@ If you find this code useful, consider citing our paper:
 ### Questions
 
 For any questions about using the code, you can contact me at `draj@cs.jhu.edu`.
-
+ -->

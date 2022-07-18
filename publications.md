@@ -6,13 +6,12 @@ title: Publications
 <!-- You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br /> -->
 
-**2022**
-- To be updated soon. 
+<!-- **2022**
+- To be updated soon.  -->
 <!--
 - **Efficient Interaction with Automotive Heads Up Displays using Appearance-based Gaze Tracking**
   Murthy L R D, **Gyanig Kumar**, Pradipta Biswas
   *Submitted to AutoUI 2022*
-
 
  - **Leveraging Speech Separation for Conversational Telephone Speaker Diarization**  
   Giovanni Morrone, Samuele Cornell, **Desh Raj**, Enrico Zovato, Alessio Brutti, Stefano Squartini  
