@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 
+title: Untitled
 tags: ["machine-learning","deep-learning"]
 mathjax: true
 ---
 
 The post has been deleted. Sorry!
+
 <!-- 
 Think about tasks such as machine translation (MT), automatic speech recognition (ASR), or handwriting recognition (HWR). While these appear very distinct, on abstraction they share the same pipeline wherein given an input signal, we are required to predict some text. The difference only lies in the form of the input signal - it is a piece of text, a sound wave, or a line image, in the case of MT, ASR, and HWR, respectively.
 
