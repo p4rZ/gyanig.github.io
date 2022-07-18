@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Experiments with Subword Modeling
-tags: ["subword","machine-learning","speech-recognition"]
+title: 
+tags: ["machine-learning","deep-learning"]
 mathjax: true
 ---
 
+The post has been deleted. Sorry!
+<!-- 
 Think about tasks such as machine translation (MT), automatic speech recognition (ASR), or handwriting recognition (HWR). While these appear very distinct, on abstraction they share the same pipeline wherein given an input signal, we are required to predict some text. The difference only lies in the form of the input signal - it is a piece of text, a sound wave, or a line image, in the case of MT, ASR, and HWR, respectively.
 
 In all of these tasks, OOV words are a major source of nuisance. *What is an OOV word?* Simply put, these are those words in the test dataset which are not seen in the training data, and as such, not present in the vocabulary - hence the name "out of vocabulary". Even if the training vocabulary is very large (in fact, the name Large Vocabulary ASR is very common), the test data may still have words which were never seen before, for instance, names of people, places, or organizations. 
@@ -147,4 +149,4 @@ While BPE seems like an ad-hoc technique for modeling subword units, it actually
 However, I believe that if a subword model were informed by the grapheme units (for HWR), as early techniques for ASR were informed by phonemes, it might perform well on the task. This seems like an interesting direction for exploration.
 
 
-
+ -->

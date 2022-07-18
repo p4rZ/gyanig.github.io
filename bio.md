@@ -3,7 +3,8 @@ layout: page
 title: Speaker profile
 ---
 
-Hi, I am a fourth-year BTech student at [KIIT](https://kiit.ac.in). I am currently interning at the [Intelligent Inclusive Interaction Design (I3D) Lab, IISc Bangalore](https://cambum.net/I3DLab/projects.htm), under supervised of [Prof. Pradipta Biswas](https://cambum.net/PB/). I am working at improving assitive human computer interaction technologies like Appearance-Based Gaze Estimation using Computer Vision, Deep Learning methods and Practical UserStudies. Apart from the mentioned, I actively pursue my research interests in Monocular Depth Estimation, low-computation and faster Landmark Detection library comparable to SOTA.
+Hi, I am a fourth-year BTech student at [KIIT](https://kiit.ac.in). I am currently interning at the [Intelligent Inclusive Interaction Design (I3D) Lab, IISc Bangalore](https://cambum.net/I3DLab/projects.htm), under supervised of [Prof. Pradipta Biswas](https://cambum.net/PB/). I am working at improving assitive human computer interaction technologies like Appearance-Based Gaze Estimation using Computer Vision, Deep Learning methods and Practical UserStudies. Apart from the mentioned, I actively pursue my research interests in Monocular Depth Estimation, low-computation and faster Landmark Detection library comparable to SOTA. 
+-------
 I want to solve problems in the focus of Computer Vision and Speech Research. Going through various learning methodologies like Domain Adaption, Self-Supervised Learning catch my attention too.
 I am working part-time as Research Apprentice at [Amydala-ai](https://amygdala-ai.github.io/) under my college supervisor [Dr. Rajdeep Chatterjee](https://amygdala-ai.github.io/team/1) and Amydala Founder [Tathagata Bandyopadhyay](https://amygdala-ai.github.io/team/2). The focus of my work is on improving Audio-Visual Correspondance Tasks and Speech Recognition in Wild.
 
