@@ -3,17 +3,33 @@ layout: page
 title: Publications
 ---
 
-<!-- You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
-<br /> -->
+You can also browse my <a href="https://scholar.google.com/citations?user=g1kxkMUAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+<br />
 
-**2022**
-- To be updated soon.
+<!-- **2022**
+- To be updated soon. -->
+- **Multimodal Target Prediction for rapid Human-Robot Interaction**
+  Mukund Mitra, Ameya Patil, GVS Mothish, **Gyanig Kumar**, Abhishek Mukhopadhyay, LRD Murthy, Partha Pratim Chakrabarti, Pradipta Biswas
+  *IUI 2024*
+  [Video](/static/video/Human-Robot Collaboration with Intent Prediction using Deep Inverse Reinforcement Learning.mp4){: .btn}
 
-<!--
+- **Enhanced Human-Robot Collaboration with Intent Prediction using Deep-IRL**
+  Mukund Mitra, **Gyanig Kumar**, Partha Pratim Chakrabarti, Pradipta Biswas
+  *ICRA 2024*
+  [Video](/static/video/Human-Robot Collaboration with Intent Prediction using Deep Inverse Reinforcement Learning.mp4){: .btn}
+
+- **Mixed Reality and Deep Learning based System for Assisting Assembly Process**
+  Pradipta Biswas Subin Raj, L.R.D. Murthy, Thanikai Adhithiyan Shanmugam, **Gyanig Kumar**, Amaresh Chakrabarti
+  *Springer Journal of Multimedia Interfaces (IF-2.9)*
+  [Paper](https://link.springer.com/article/10.1007/s12193-023-00428-3){: .btn}
+
 - **Efficient Interaction with Automotive Heads Up Displays using Appearance-based Gaze Tracking**
   Murthy L R D, **Gyanig Kumar**, Pradipta Biswas
-  *Submitted to AutoUI 2022*
+  *ACM AutomotiveUI 2022*
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3544999.3554818){: .btn}
+  [Video](/static/video/Efficient Interaction with Automotive Heads Up Displays using Appearance-based Gaze Tracking.mp4){: .btn}
 
+<!-- 
  - **Leveraging Speech Separation for Conversational Telephone Speaker Diarization**  
   Giovanni Morrone, Samuele Cornell, **Desh Raj**, Enrico Zovato, Alessio Brutti, Stefano Squartini  
   *Submitted to INTERSPEECH 2022*  
@@ -149,7 +165,7 @@ title: Publications
 - **Analysis of data generated from multidimensional type-1 and type-2 fuzzy membership functions**  
   **Desh Raj**, Aditya Gupta, Bhuvnesh Garg, Kenil Tanna, Frank Chung-hoon Rhee.  
   *IEEE Transactions on Fuzzy Systems*, 2017.  
-  [Paper](http://ieeexplore.ieee.org/document/7888454/){: .btn} -->
+  [Paper](http://ieeexplore.ieee.org/document/7888454/){: .btn} --> -->
 
 <!-- 
 **Non-refereed project reports:**
