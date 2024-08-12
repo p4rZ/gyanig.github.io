@@ -8,6 +8,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=g1kxkM
 
 <!-- **2022**
 - To be updated soon. -->
+
+**2024**
+
 - **Multimodal Target Prediction for rapid Human-Robot Interaction**
   Mukund Mitra, Ameya Patil, GVS Mothish, **Gyanig Kumar**, Abhishek Mukhopadhyay, LRD Murthy, Partha Pratim Chakrabarti, Pradipta Biswas
   *IUI 2024*
@@ -16,12 +19,15 @@ You can also browse my <a href="https://scholar.google.com/citations?user=g1kxkM
 - **Enhanced Human-Robot Collaboration with Intent Prediction using Deep-IRL**
   Mukund Mitra, **Gyanig Kumar**, Partha Pratim Chakrabarti, Pradipta Biswas
   *ICRA 2024*
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10610595/){: .btn}
   [Video](/static/video/Human-Robot Collaboration with Intent Prediction using Deep Inverse Reinforcement Learning.mp4){: .btn}
 
 - **Mixed Reality and Deep Learning based System for Assisting Assembly Process**
   Pradipta Biswas Subin Raj, L.R.D. Murthy, Thanikai Adhithiyan Shanmugam, **Gyanig Kumar**, Amaresh Chakrabarti
   *Springer Journal of Multimedia Interfaces (IF-2.9)*
   [Paper](https://link.springer.com/article/10.1007/s12193-023-00428-3){: .btn}
+
+**2022**
 
 - **Efficient Interaction with Automotive Heads Up Displays using Appearance-based Gaze Tracking**
   Murthy L R D, **Gyanig Kumar**, Pradipta Biswas
